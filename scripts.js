@@ -54,9 +54,6 @@ function filterVegan() {
     showAll(productsVegan)
 }
 
-
-
-
 buttonShowAll.addEventListener('click', () => showAll(menuOptions))
 buttonMapAll.addEventListener('click', mapAllItems)
 sumAll.addEventListener('click', sumAllItems)
