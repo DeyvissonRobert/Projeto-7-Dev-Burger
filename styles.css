@@ -67,3 +67,35 @@ p {
     font-weight: bold;
     color: #79cb15;
 }
+
+@media screen and (max-width: 500px) {
+
+ul {
+    display: grid;
+    grid-template-columns: 110px 110px 110px;
+    gap: 10px;
+}
+    
+img {
+    height: 70%;
+}
+
+p {
+    font-size: small;
+}
+
+button {
+    padding: 5px;
+    font-weight: bold;
+    height: 70px;
+}
+
+.show-all {
+    margin-left: 10px;
+}
+
+.filter-all {
+    margin-right: 10px;
+}
+
+}
