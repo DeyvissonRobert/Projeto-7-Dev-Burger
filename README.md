@@ -1,6 +1,6 @@
 <div align="center">
   
-# ✧ Projeto Convert Money ✧
+# ✧ Projeto Dev Burger ✧
 <br> <br>
 
 ## ✧ Este é um projeto no qual convertemos um valor em Real Brasileiro para dolar, euro, libra ou bitcoin. Aprendi a faze-lo com a <a href="https://rodolfomori.com.br/devclub/" target="_blank">DevClub</a>.🚀 ✧
