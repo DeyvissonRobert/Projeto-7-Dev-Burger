@@ -3,7 +3,7 @@
 # ✧ Projeto Dev Burger ✧
 <br> <br>
 
-## ✧ Este é um projeto no qual convertemos um valor em Real Brasileiro para dolar, euro, libra ou bitcoin. Aprendi a faze-lo com a <a href="https://rodolfomori.com.br/devclub/" target="_blank">DevClub</a>.🚀 ✧
+## ✧ A proposta desse projeto foi de praticar a aplicação da funções ForEach, Map, Reduce e Filter, do JavaScript, criando um menu de ofertas simples para uma hamburgueria. Aprendi a faze-lo com a <a href="https://rodolfomori.com.br/devclub/" target="_blank">DevClub</a>.🚀 ✧
 
 ### ✧ Utilizando as linguagens ✧
 ✧ JavaScript \ HTML / CSS ✧
@@ -11,6 +11,6 @@
   </div>
 
 <div align="center" display="inline-block">
-<img  alt="imagem do projeto no desktop" src="https://github.com/DeyvissonRobert/Projeto-7-Dev-Burger/blob/main/img/DevBurger%20pc.gif">
+<img  alt="imagem do projeto no desktop" src="https://github.com/DeyvissonRobert/Projeto-7-Dev-Burger/blob/main/img/Dev%20Burger%20pc.gif">
 <img alt="imagem do projeto no mobile" src="https://github.com/DeyvissonRobert/Projeto-7-Dev-Burger/blob/main/img/DevBurger%20mobile.png">
 </div>
