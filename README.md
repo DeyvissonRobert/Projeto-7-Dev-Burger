@@ -3,7 +3,8 @@
 # ✧ Projeto Dev Burger ✧
 <br> <br>
 
-## ✧ A proposta desse projeto foi de praticar a aplicação da funções ForEach, Map, Reduce e Filter, do JavaScript, criando um menu de ofertas simples para uma hamburgueria. Aprendi a faze-lo com a <a href="https://rodolfomori.com.br/devclub/" target="_blank">DevClub</a>.🚀 ✧
+## ✧ A proposta desse projeto foi de praticar a aplicação da funções ForEach, Map, Reduce e Filter, do JavaScript, criando um menu de ofertas simples para uma hamburgueria. ✧
+### ✧ Aprendi a faze-lo com a <a href="https://rodolfomori.com.br/devclub/" target="_blank">DevClub</a>.🚀 ✧
 
 ### ✧ Utilizando as linguagens ✧
 ✧ JavaScript \ HTML / CSS ✧
