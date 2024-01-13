@@ -7,10 +7,10 @@
 
 ### ✧ Utilizando as linguagens ✧
 ✧ JavaScript \ HTML / CSS ✧
-### <p>👾Teste <a href="https://deyvissonrobert.github.io/Projeto-4-Convert-Money/" target="_blank">Aqui</a>👾</p>
+### <p>👾Teste <a href="https://deyvissonrobert.github.io/Projeto-7-Dev-Burger/" target="_blank">Aqui</a>👾</p>
   </div>
 
 <div align="center" display="inline-block">
-<img  alt="imagem do projeto no desktop" src="https://github.com/DeyvissonRobert/Projeto-4-Convert-Money/blob/main/assets/Desktop%20Convert%20Money.jpg">
-<img alt="imagem do projeto no mobile" src="https://github.com/DeyvissonRobert/Projeto-4-Convert-Money/blob/main/assets/Mobile%20Convert%20Money.jpg">
+<img  alt="imagem do projeto no desktop" src="https://github.com/DeyvissonRobert/Projeto-7-Dev-Burger/blob/main/img/DevBurger%20pc.gif">
+<img alt="imagem do projeto no mobile" src="https://github.com/DeyvissonRobert/Projeto-7-Dev-Burger/blob/main/img/DevBurger%20mobile.png">
 </div>
