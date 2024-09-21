@@ -3,7 +3,7 @@
 
 <div align="center">
   
-# ✧ Projeto Dev Burger ✧
+# ✧ Dev Burger ✧
 <br> <br>
 
 ## ✧ A proposta desse projeto foi de praticar a aplicação das funções ForEach, Map, Reduce e Filter, do JavaScript, criando um menu de ofertas simples para uma hamburgueria. ✧
